@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login FireBase</string>
+    <string name="email_id">email id</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="failed">Authentication failed</string>
+    <string name="image">image</string>
+    <string name="create_a_new_account">Create a new Account!</string>
+
+
+</resources>
